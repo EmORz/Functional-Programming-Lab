@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\bin\Debug\netcoreapp2.0\PredicateForName.deps.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\bin\Debug\netcoreapp2.0\PredicateForName.runtimeconfig.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\bin\Debug\netcoreapp2.0\PredicateForName.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\bin\Debug\netcoreapp2.0\PredicateForName.dll
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\bin\Debug\netcoreapp2.0\PredicateForName.pdb
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\obj\Debug\netcoreapp2.0\PredicateForName.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\obj\Debug\netcoreapp2.0\PredicateForName.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\obj\Debug\netcoreapp2.0\PredicateForName.AssemblyInfo.cs
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\obj\Debug\netcoreapp2.0\PredicateForName.dll
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\PredicateForName\obj\Debug\netcoreapp2.0\PredicateForName.pdb

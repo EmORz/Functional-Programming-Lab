@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\SortEvenNumbers\\SortEvenNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\Functional-Programming-Lab\\SortEvenNumbers\\SortEvenNumbers.csproj",
       "projectName": "SortEvenNumbers",
-      "projectPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\SortEvenNumbers\\SortEvenNumbers.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\Functional-Programming-Lab\\SortEvenNumbers\\SortEvenNumbers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\SortEvenNumbers\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\Functional-Programming-Lab\\SortEvenNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

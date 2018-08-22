@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\bin\Debug\netcoreapp2.0\ReversedExclude.deps.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\bin\Debug\netcoreapp2.0\ReversedExclude.runtimeconfig.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\bin\Debug\netcoreapp2.0\ReversedExclude.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\bin\Debug\netcoreapp2.0\ReversedExclude.dll
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\bin\Debug\netcoreapp2.0\ReversedExclude.pdb
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\obj\Debug\netcoreapp2.0\ReversedExclude.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\obj\Debug\netcoreapp2.0\ReversedExclude.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\obj\Debug\netcoreapp2.0\ReversedExclude.AssemblyInfo.cs
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\obj\Debug\netcoreapp2.0\ReversedExclude.dll
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\ReversedExclude\obj\Debug\netcoreapp2.0\ReversedExclude.pdb

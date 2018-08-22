@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\AddVat\\AddVat.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\Functional-Programming-Lab\\AddVat\\AddVat.csproj",
       "projectName": "AddVat",
-      "projectPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\AddVat\\AddVat.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\Functional-Programming-Lab\\AddVat\\AddVat.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\AddVat\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\LabFunctionalProgramming\\Functional-Programming-Lab\\AddVat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
