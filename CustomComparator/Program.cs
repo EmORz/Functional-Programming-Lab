@@ -23,9 +23,10 @@ namespace CustomComparator
                     odd.Add(num);
                 }
             }
+            even.Sort();
+            odd.Sort();
             var fullLine = even.Concat(odd);
             Console.WriteLine(string.Join(" ", fullLine));
-            //ToDo !
         }
     }
 }

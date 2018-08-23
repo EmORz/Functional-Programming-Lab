@@ -23,15 +23,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindEvenOrOdd", "FindEvenOr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppliedArithmetics", "AppliedArithmetics\AppliedArithmetics.csproj", "{71154E76-C8BB-4216-A913-646F75D848A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedExclude", "ReversedExclude\ReversedExclude.csproj", "{6B5957FF-3FC9-4E73-985C-C1510D9781E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversedExclude", "ReversedExclude\ReversedExclude.csproj", "{6B5957FF-3FC9-4E73-985C-C1510D9781E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateForName", "PredicateForName\PredicateForName.csproj", "{C398E122-F96B-4D6A-9A1C-B7A4E42685F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredicateForName", "PredicateForName\PredicateForName.csproj", "{C398E122-F96B-4D6A-9A1C-B7A4E42685F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomComparator", "CustomComparator\CustomComparator.csproj", "{5B367665-6EAC-48C7-8160-FA6442BB3D68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomComparator", "CustomComparator\CustomComparator.csproj", "{5B367665-6EAC-48C7-8160-FA6442BB3D68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfPredicates", "ListOfPredicates\ListOfPredicates.csproj", "{5DDD1CE3-9E8C-46B1-ABCB-CEBA45F98BCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOfPredicates", "ListOfPredicates\ListOfPredicates.csproj", "{5DDD1CE3-9E8C-46B1-ABCB-CEBA45F98BCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateParty", "PredicateParty\PredicateParty.csproj", "{4724CBF2-DA30-4A71-8575-487216CD328C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredicateParty", "PredicateParty\PredicateParty.csproj", "{4724CBF2-DA30-4A71-8575-487216CD328C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreFunction", "TreFunction\TreFunction.csproj", "{7E691631-C5FE-4000-A18F-D6CA98309296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyReservationFilterMode", "PartyReservationFilterMode\PartyReservationFilterMode.csproj", "{7B49A687-CD24-440F-86C7-C950CC694F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inferno", "Inferno\Inferno.csproj", "{53BE5FB4-627B-4F8F-A3EF-AED774AAED6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{4724CBF2-DA30-4A71-8575-487216CD328C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4724CBF2-DA30-4A71-8575-487216CD328C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4724CBF2-DA30-4A71-8575-487216CD328C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E691631-C5FE-4000-A18F-D6CA98309296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E691631-C5FE-4000-A18F-D6CA98309296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E691631-C5FE-4000-A18F-D6CA98309296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E691631-C5FE-4000-A18F-D6CA98309296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B49A687-CD24-440F-86C7-C950CC694F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B49A687-CD24-440F-86C7-C950CC694F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B49A687-CD24-440F-86C7-C950CC694F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B49A687-CD24-440F-86C7-C950CC694F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BE5FB4-627B-4F8F-A3EF-AED774AAED6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BE5FB4-627B-4F8F-A3EF-AED774AAED6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BE5FB4-627B-4F8F-A3EF-AED774AAED6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BE5FB4-627B-4F8F-A3EF-AED774AAED6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\bin\Debug\netcoreapp2.0\TreFunction.deps.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\bin\Debug\netcoreapp2.0\TreFunction.runtimeconfig.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\bin\Debug\netcoreapp2.0\TreFunction.runtimeconfig.dev.json
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\bin\Debug\netcoreapp2.0\TreFunction.dll
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\bin\Debug\netcoreapp2.0\TreFunction.pdb
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\obj\Debug\netcoreapp2.0\TreFunction.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\obj\Debug\netcoreapp2.0\TreFunction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\obj\Debug\netcoreapp2.0\TreFunction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\obj\Debug\netcoreapp2.0\TreFunction.AssemblyInfo.cs
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\obj\Debug\netcoreapp2.0\TreFunction.dll
+C:\Users\User\source\repos\LabFunctionalProgramming\Functional-Programming-Lab\TreFunction\obj\Debug\netcoreapp2.0\TreFunction.pdb
